@@ -1,0 +1,14 @@
+{
+"For taking input n": {
+	"prefix": "scn",
+	"body": [
+		"try (Scanner sc = new Scanner(System.in)) {",
+		"System.out.print(\"Enter a number: \");",
+		"int n = sc.nextInt();",
+		"}"
+	],
+	"description": "For taking input n"
+}
+}
+
+
