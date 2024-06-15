@@ -7,7 +7,7 @@
         {
             "type": "jdk",
             "request": "launch",
-            "name": "Launch Java App"
+            "name": "Launch Java App",
             "console": "internalConsole"
         }
     ]
