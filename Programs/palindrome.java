@@ -1,4 +1,4 @@
-public class FunctionsQues {
+public class palindrome {
     public static boolean palindromeCheck(int a) {
         int rev = 0;
         int c = a;
