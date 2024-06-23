@@ -1,12 +1,8 @@
 public class UglyNumber {
     public static boolean isUgly(int n) {
-        if (n==1) {
-            return true;
-        }
-        else if (n==Integer.MIN_VALUE || n == Integer.MAX_VALUE) {
+        if (n<=0) {
             return false;
         }
-        
         while (n>1) { 
             if (n%2 == 0) {
                 n /= 2;

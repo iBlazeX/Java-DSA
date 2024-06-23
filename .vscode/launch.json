@@ -5,10 +5,11 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "jdk",
+            "type": "java",
+            "name": "DayoftheWeek",
             "request": "launch",
-            "name": "Launch Java App",
-            "console": "internalConsole"
+            "mainClass": "DayoftheWeek",
+            "projectName": "Java-DSA_dc98f32f"
         }
     ]
 }
