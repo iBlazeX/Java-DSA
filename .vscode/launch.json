@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayTest",
+            "request": "launch",
+            "mainClass": "ArrayTest",
+            "projectName": "Java-DSA_dc98f32f"
+        },
+        {
+            "type": "java",
             "name": "FastExponentiation",
             "request": "launch",
             "mainClass": "FastExponentiation",
