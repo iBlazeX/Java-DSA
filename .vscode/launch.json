@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FastExponentiation",
+            "request": "launch",
+            "mainClass": "FastExponentiation",
+            "projectName": "Java-DSA_dc98f32f"
+        },
+        {
+            "type": "java",
+            "name": "x_Power_x",
+            "request": "launch",
+            "mainClass": "x_Power_x",
+            "projectName": "Java-DSA_dc98f32f"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigitsinBase",
+            "request": "launch",
+            "mainClass": "SumOfDigitsinBase",
+            "projectName": "Java-DSA_dc98f32f"
+        },
+        {
+            "type": "java",
+            "name": "convertToBase",
+            "request": "launch",
+            "mainClass": "convertToBase",
+            "projectName": "Java-DSA_dc98f32f"
+        },
+        {
+            "type": "java",
+            "name": "Base7",
+            "request": "launch",
+            "mainClass": "Base7",
+            "projectName": "Java-DSA_dc98f32f"
+        },
+        {
+            "type": "java",
             "name": "DayoftheWeek",
             "request": "launch",
             "mainClass": "DayoftheWeek",

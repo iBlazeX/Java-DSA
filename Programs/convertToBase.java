@@ -15,9 +15,8 @@ public class convertToBase {
                 sb.insert(0, 0);
             }
             else {
-                int i = n%base;
-                n -= i;   
-                sb.insert(0, i);
+                sb.insert(0, n%base);
+                n -= n%base;
                 n /= base;
             }
         }

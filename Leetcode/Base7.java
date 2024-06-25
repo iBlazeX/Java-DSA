@@ -17,12 +17,8 @@ public class Base7 {
                 sb.insert(0, 0);
             }
             else {
-                int i = 0;
-                while (n%7 != 0) {
-                    n--;
-                    i++;
-                }
-                sb.insert(0, i);
+                sb.insert(0, n%7);
+                n -= n%7;
                 n /= 7;
             }
         }
